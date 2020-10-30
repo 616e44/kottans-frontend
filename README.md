@@ -2,7 +2,7 @@
 
 ## General
 1. [Git and GitHub](#git-and-github)
-2. Linux CLI and Networking
+2. [Linux CLI and Networking](#linux-cli-and-networking)
 3. VCS GitHub and Collaboration
 
 ## Front-End Basics
@@ -39,6 +39,19 @@
 <img src="src/images/git_branching_main.jpeg" width="40%"/>
  
 <img src="src/images/git_branching_remote.jpeg" width="40%"/>
+
+</div>
+
+</details>
+
+### Linux CLI and Networking
+
+<details><summary>
+<a href="https://linuxsurvival.com/">Linux Survival </a></summary>
+ 
+<div>
+
+<img src="src/images/task_linux_cli/linux_cli_linuxsurvival_com.jpeg" width="50%"/>
 
 </div>
 
