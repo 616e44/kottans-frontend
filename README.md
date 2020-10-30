@@ -20,3 +20,26 @@
 13. Memory pair game
 14. Website Performance Optimization
 15. Friends App
+
+***
+### Git and GitHub:
+
+<details><summary>
+<a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a></summary>
+ 
+![image](src/images/git.jpeg/)
+
+</details>
+
+<details><summary>
+<a href="https://learngitbranching.js.org/">Learn Git Branching</a></summary>
+ 
+<div style="display: flex">
+
+<img src="src/images/git_branching_main.jpeg" width="40%"/>
+ 
+<img src="src/images/git_branching_remote.jpeg" width="40%"/>
+
+</div>
+
+</details>
