@@ -3,7 +3,7 @@
 ## General
 1. [Git and GitHub](#git-and-github)
 2. [Linux CLI and Networking](#linux-cli-and-networking)
-3. VCS GitHub and Collaboration
+3. [VCS GitHub and Collaboration](#vcs-github-and-collaboration)
 
 ## Front-End Basics
 4. Intro to HTML & CSS
@@ -52,6 +52,28 @@
 <div>
 
 <img src="src/images/task_linux_cli/linux_cli_linuxsurvival_com.jpeg" width="50%"/>
+
+</div>
+
+</details>
+
+### VCS GitHub and Collaboration
+
+<details><summary>
+<a href="https://classroom.udacity.com/courses/ud456/">GitHub & Collaboration</a></summary>
+ 
+![image](src/images/task_git_collaboration/git_collaboration.jpeg)
+
+</details>
+
+<details><summary>
+<a href="https://learngitbranching.js.org/">Learn Git Branching</a></summary>
+ 
+<div style="display: flex">
+
+<img src="src/images/git_branching_main.jpeg" width="40%"/>
+ 
+<img src="src/images/git_branching_remote.jpeg" width="40%"/>
 
 </div>
 
