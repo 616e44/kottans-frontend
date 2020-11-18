@@ -27,7 +27,7 @@
 <details><summary>
 <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a></summary>
  
-![image](src/images/git.jpeg/)
+![image](src/images/task_git_and_gitHub/git.jpeg/)
 
 </details>
 
@@ -36,9 +36,9 @@
  
 <div style="display: flex">
 
-<img src="src/images/git_branching_main.jpeg" width="40%"/>
+<img src="src/images/task_git_and_gitHub/git_branching_main.jpeg" width="40%"/>
  
-<img src="src/images/git_branching_remote.jpeg" width="40%"/>
+<img src="src/images/task_git_and_gitHub/git_branching_remote.jpeg" width="40%"/>
 
 </div>
 
@@ -71,9 +71,9 @@
  
 <div style="display: flex">
 
-<img src="src/images/git_branching_main.jpeg" width="40%"/>
+<img src="src/images/task_git_and_gitHub/git_branching_main.jpeg" width="40%"/>
  
-<img src="src/images/git_branching_remote.jpeg" width="40%"/>
+<img src="src/images/task_git_and_gitHub/git_branching_remote.jpeg" width="40%"/>
 
 </div>
 
