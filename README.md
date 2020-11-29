@@ -6,7 +6,7 @@
 3. [VCS GitHub and Collaboration](#vcs-github-and-collaboration)
 
 ## Front-End Basics
-4. Intro to HTML & CSS
+4. [Intro to HTML & CSS](#intro-to-html-&-css)
 5. Responsive Web Design
 6. HTML & CSS Practice
 7. JavaScript Basics
@@ -76,5 +76,22 @@
 <img src="src/images/task_git_and_gitHub/git_branching_remote.jpeg" width="40%"/>
 
 </div>
+
+</details>
+
+### Intro to HTML & CSS
+
+<details><summary>
+<a href="https://www.udacity.com/course/intro-to-html-and-css--ud001#/">Intro to HTML and CSS</a></summary>
+ 
+![image](src/images/task_html_css_intro/html_css_intro.png)
+
+</details>
+
+<details><summary>
+<a href="https://www.codecademy.com/learn/learn-html">Learn HTML</a> & 
+<a href="https://www.codecademy.com/learn/learn-css">Learn CSS</a></summary>
+ 
+![image](src/images/task_html_css_intro/codecademy.png)
 
 </details>
