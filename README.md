@@ -7,7 +7,7 @@
 
 ## Front-End Basics
 4. [Intro to HTML & CSS](#intro-to-html-&-css)
-5. Responsive Web Design
+5. [Responsive Web Design](#responsive-web-design)
 6. HTML & CSS Practice
 7. JavaScript Basics
 8. Document Object Model
@@ -93,5 +93,21 @@
 <a href="https://www.codecademy.com/learn/learn-css">Learn CSS</a></summary>
  
 ![image](src/images/task_html_css_intro/codecademy.png)
+
+</details>
+
+### Responsive Web Design
+
+<details><summary>
+<a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Responsive Web Design Fundamentals</a></summary>
+ 
+![image](src/images/task_responsive_web_design/responsive_web_design.png)
+
+</details>
+
+<details><summary>
+<a href="http://flexboxfroggy.com">Learn HTML</a></summary>
+ 
+![image](src/images/task_responsive_web_design/flexbox_froggy.png)
 
 </details>
